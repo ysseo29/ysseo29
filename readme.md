@@ -12,7 +12,6 @@ SW프로세스를 좋아합니다.
 
 ## Links
 - E-mail - ysseo@yu.ac.kr
-- GitHub - https://github.com/ysseo29
 - Google scholar - https://scholar.google.com/citations?user=RnV9ZSgAAAAJ&hl=en
 - Homepage - https://se.yu.ac.kr
 
