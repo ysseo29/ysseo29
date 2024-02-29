@@ -2,8 +2,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysseo29&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
-## Introduce
-안녕하세요. 소프트웨어 공학 전공 교수입니다.
+## Introduction
+안녕하세요.
 SW프로세스를 좋아합니다.
 최근관심을 가지고 보고 있는 분야는 [SW Bug]와 [LLM(Large Language Model)](https://aws.amazon.com/ko/what-is/large-language-model/) 입니다.
 
