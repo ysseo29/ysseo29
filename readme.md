@@ -8,7 +8,7 @@ SW프로세스를 좋아합니다.
 최근관심을 가지고 보고 있는 분야는 [SW Bug]와 [LLM(Large Language Model)](https://aws.amazon.com/ko/what-is/large-language-model/) 입니다.
 
 ## Career
-- 영남대학교 컴퓨터공학과 교수
+- 영남대학교 컴퓨터학부 교수
 
 ## Links
 - E-mail - ysseo@yu.ac.kr
